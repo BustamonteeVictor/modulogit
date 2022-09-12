@@ -1,4 +1,4 @@
 *.sql
 *.txt 
+
 qualquer arquivo
-para ignorar uma pasta basta usar nomePasta/*
